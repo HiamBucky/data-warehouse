@@ -1,0 +1,56 @@
+,antecedents,consequents,confidence
+0,['Handlebars'],['Pedals'],0.7222222222222223
+1,"['Bike Racks', 'Caps']",['Bottles and Cages'],0.8773584905660378
+2,"['Bottles and Cages', 'Bike Racks']",['Caps'],0.8691588785046729
+3,"['Bottles and Cages', 'Bike Racks']",['Jerseys'],0.909657320872274
+4,"['Jerseys', 'Bike Racks']",['Bottles and Cages'],0.8414985590778098
+5,"['Bottles and Cages', 'Bike Racks']",['Vests'],0.8909657320872274
+6,"['Vests', 'Bike Racks']",['Bottles and Cages'],0.8614457831325302
+7,"['Bottles and Cages', 'Vests']",['Bike Racks'],0.715
+8,"['Bike Racks', 'Caps']",['Jerseys'],0.9591194968553459
+9,"['Jerseys', 'Bike Racks']",['Caps'],0.8789625360230549
+10,"['Bike Racks', 'Caps']",['Vests'],0.9308176100628931
+11,"['Vests', 'Caps']",['Bike Racks'],0.9517684887459807
+12,"['Vests', 'Bike Racks']",['Caps'],0.891566265060241
+13,"['Vests', 'Bike Racks']",['Jerseys'],0.9969879518072289
+14,"['Jerseys', 'Vests']",['Bike Racks'],0.9019073569482289
+15,"['Jerseys', 'Bike Racks']",['Vests'],0.9538904899135446
+16,"['Vests', 'Caps']",['Bottles and Cages'],0.8971061093247589
+17,"['Bottles and Cages', 'Vests']",['Caps'],0.6974999999999999
+18,"['Bottles and Cages', 'Gloves']",['Helmets'],0.6135371179039301
+19,"['Bottles and Cages', 'Vests']",['Jerseys'],0.7274999999999999
+20,"['Jerseys', 'Vests']",['Bottles and Cages'],0.7929155313351499
+21,"['Vests', 'Caps']",['Jerseys'],1.0
+22,"['Jerseys', 'Vests']",['Caps'],0.8474114441416893
+23,"['Bottles and Cages', 'Bike Racks', 'Caps']",['Jerseys'],0.992831541218638
+24,"['Jerseys', 'Bike Racks', 'Caps']",['Bottles and Cages'],0.9081967213114754
+25,"['Jerseys', 'Bottles and Cages', 'Caps']",['Bike Racks'],0.7486486486486487
+26,"['Jerseys', 'Bottles and Cages', 'Bike Racks']",['Caps'],0.9486301369863014
+27,"['Bike Racks', 'Caps']","['Jerseys', 'Bottles and Cages']",0.8710691823899371
+28,"['Bottles and Cages', 'Bike Racks']","['Jerseys', 'Caps']",0.8629283489096573
+29,"['Jerseys', 'Bike Racks']","['Bottles and Cages', 'Caps']",0.7982708933717579
+30,"['Bottles and Cages', 'Vests', 'Bike Racks']",['Jerseys'],0.9965034965034966
+31,"['Jerseys', 'Vests', 'Bike Racks']",['Bottles and Cages'],0.8610271903323263
+32,"['Jerseys', 'Bottles and Cages', 'Vests']",['Bike Racks'],0.9793814432989691
+33,"['Jerseys', 'Bottles and Cages', 'Bike Racks']",['Vests'],0.9760273972602741
+34,"['Vests', 'Bike Racks']","['Jerseys', 'Bottles and Cages']",0.858433734939759
+35,"['Bottles and Cages', 'Vests']","['Jerseys', 'Bike Racks']",0.7125
+36,"['Jerseys', 'Vests']","['Bottles and Cages', 'Bike Racks']",0.776566757493188
+37,"['Bottles and Cages', 'Bike Racks']","['Jerseys', 'Vests']",0.8878504672897196
+38,"['Jerseys', 'Bike Racks']","['Bottles and Cages', 'Vests']",0.8213256484149857
+39,"['Vests', 'Bike Racks', 'Caps']",['Jerseys'],1.0
+40,"['Jerseys', 'Vests', 'Caps']",['Bike Racks'],0.9517684887459807
+41,"['Jerseys', 'Vests', 'Bike Racks']",['Caps'],0.8942598187311179
+42,"['Jerseys', 'Bike Racks', 'Caps']",['Vests'],0.9704918032786886
+43,"['Vests', 'Caps']","['Jerseys', 'Bike Racks']",0.9517684887459807
+44,"['Vests', 'Bike Racks']","['Jerseys', 'Caps']",0.891566265060241
+45,"['Jerseys', 'Vests']","['Bike Racks', 'Caps']",0.8065395095367848
+46,"['Bike Racks', 'Caps']","['Jerseys', 'Vests']",0.9308176100628931
+47,"['Jerseys', 'Bike Racks']","['Vests', 'Caps']",0.8530259365994237
+48,"['Bottles and Cages', 'Vests', 'Caps']",['Jerseys'],1.0
+49,"['Jerseys', 'Vests', 'Caps']",['Bottles and Cages'],0.8971061093247589
+50,"['Jerseys', 'Bottles and Cages', 'Vests']",['Caps'],0.9587628865979382
+51,"['Jerseys', 'Bottles and Cages', 'Caps']",['Vests'],0.754054054054054
+52,"['Vests', 'Caps']","['Jerseys', 'Bottles and Cages']",0.8971061093247589
+53,"['Bottles and Cages', 'Vests']","['Jerseys', 'Caps']",0.6974999999999999
+54,"['Jerseys', 'Vests']","['Bottles and Cages', 'Caps']",0.7602179836512262
